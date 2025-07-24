@@ -1,4 +1,13 @@
 # 📊 Youth Tobacco Survey in Indian States - Dashboard Project
+## 📁 Files in This Repository
+
+| File / Folder | Description |
+|---------------|-------------|
+| `blinkit.pbix` | Main Tableau project file |
+| `csv` | Collected Source file |
+| `img`      | Exported visuals and dashboard screenshots |
+| `README.md`    | Project documentation |
+---
 
 ## 🔍 Project Overview
 This project demonstrates an end-to-end data pipeline and dashboard visualization based on the **Youth Tobacco Survey** conducted across Indian states. The objective is to derive meaningful insights into tobacco consumption patterns among youth to support public health analysis and policy formulation.
